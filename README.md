@@ -28,7 +28,7 @@
   <img align="right" width="400" src="https://www.tecsup-aqp.edu.pe/flex/crespo/assets/project/images/logo/logo_tecsup2.png" alt="coding illustration" />
 </div>
 
-Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 5to semestre en Diseño y Desarrollo de Software en **Tecsulp**. Mi pasión reside en crear soluciones tecnológicas que integren software y hardware de manera innovadora.
+Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 5to semestre en Diseño y Desarrollo de Software en **Tecsup**. Mi pasión reside en crear soluciones tecnológicas que integren software y hardware de manera innovadora.
 
 - 🔭 Desarrollando una **pulsera inteligente** con sensor biométrico
 - 🌱 Expandiendo mis conocimientos en **arquitecturas modernas** y **UI/UX**
@@ -143,16 +143,6 @@ Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 5to semestr
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<!-- Estadísticas generales -->
-<img src="https://github-readme-stats.vercel.app/api?username=NinaDIV&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-<br/>
-
-<!-- Racha de contribuciones -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=NinaDIV&theme=default&hide_border=false" alt="GitHub Streak" />
-
-<br/>
 
 <!-- Lenguajes más usados -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaDIV&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
