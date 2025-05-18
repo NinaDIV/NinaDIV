@@ -1,30 +1,34 @@
  # <div align="center">🚀 Milward Nina | Desarrollador de Software</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Entusiasta+de+IoT;Creador+de+Soluciones+Tecnol%C3%B3gicas;Dise%C3%B1ador+de+Experiencias+Digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Entusiasta+de+IoT;Creador+de+Soluciones+Tecnol%C3%B3gicas;Dise%C3%B1ador+de+Experiencias+Digitales" alt="Presentación animada de Milward" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/milwardnina">
-    <img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/milwardnina" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:Milwardxsm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-88C0D0?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  &nbsp;
+  <a href="mailto:Milwardxsm@gmail.com" target="_blank" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/milwardxsm">
-    <img src="https://img.shields.io/badge/GitHub-4C566A?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  &nbsp;
+  <a href="https://github.com/milwardxsm" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 💫 Sobre Mí
 
 <div align="center">
-  <img align="right" width="300" src="https://i.imgur.com/YTyGUTm.png" alt="coding illustration" />
+  <img align="right" width="400" src="https://www.tecsup-aqp.edu.pe/flex/crespo/assets/project/images/logo/logo_tecsup2.png" alt="coding illustration" />
 </div>
 
-Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 4to semestre en Diseño y Desarrollo de Software en **Tecsulp**. Mi pasión reside en crear soluciones tecnológicas que integren software y hardware de manera innovadora.
+Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 5to semestre en Diseño y Desarrollo de Software en **Tecsulp**. Mi pasión reside en crear soluciones tecnológicas que integren software y hardware de manera innovadora.
 
 - 🔭 Desarrollando una **pulsera inteligente** con sensor biométrico
 - 🌱 Expandiendo mis conocimientos en **arquitecturas modernas** y **UI/UX**
@@ -51,63 +55,66 @@ Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 4to semestr
 
 ---
 
+
+
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### ⚙️ Lenguajes de Programación
-
 <p>
-  <img src="https://img.shields.io/badge/java-%23B07219.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript-%23ECEFF4.svg?style=flat-square&logo=javascript&logoColor=%23D08770" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%235E81AC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/python-%2388C0D0.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/php-%234C566A.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/html5-%23D08770.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%235E81AC.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 📚 Frameworks y Bibliotecas
-
+### 📚 Frameworks y Librerías
 <p>
-  <img src="https://img.shields.io/badge/react-%2381A1C1.svg?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/spring-%23A3BE8C.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/django-%23EBCB8B.svg?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/laravel-%23B48EAD.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/node.js-%23A3BE8C.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/express.js-%234C566A.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/WordPress-%235E81AC.svg?style=flat-square&logo=WordPress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
 ### 💾 Bases de Datos
-
 <p>
-  <img src="https://img.shields.io/badge/mysql-%2381A1C1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-%23A3BE8C.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/postgres-%235E81AC.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/firebase-%23D08770.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 ### 🔧 Herramientas y Plataformas
-
 <p>
-  <img src="https://img.shields.io/badge/git-%23D08770.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/docker-%2381A1C1.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/figma-%23B48EAD.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Postman-%23EBCB8B.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Arduino-%2388C0D0.svg?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/RaspberryPi-%23B48EAD.svg?style=flat-square&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Trello-%235E81AC.svg?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
-### 📱 Desarrollo Móvil
+### 📱 Tecnologías móviles que uso o estoy aprendiendo
 
-<p>
-  <img src="https://img.shields.io/badge/react_native-%2381A1C1.svg?style=flat-square&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Flutter-%2388C0D0.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
-</p>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-88C0D0?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
 </div>
+</div>
+
+
 
 ---
 
@@ -133,63 +140,24 @@ Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 4to semestr
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img alt="Estadísticas de GitHub" height="170em" src="https://github-readme-stats.vercel.app/api?username=milwardxsm&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="Lenguajes más usados" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwardxsm&layout=compact&langs_count=7&theme=nord&hide_border=true" />
-</div>
 
-<div align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=milwardxsm&theme=nord&hide_border=true" />
-</div>
+<!-- Estadísticas generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=NinaDIV&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
+<br/>
+
+<!-- Racha de contribuciones -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=NinaDIV&theme=default&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaDIV&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
+ 
 ---
 
-## 🏆 Reconocimientos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=milwardxsm&theme=nord&no-frame=true&column=7&margin-w=15" alt="Trofeos GitHub">
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:Milwardxsm@gmail.com">
-          <img src="https://img.shields.io/badge/-Milwardxsm@gmail.com-88C0D0?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-          <br>
-          <span>Email</span>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/milwardnina">
-          <img src="https://img.shields.io/badge/-Milward_Nina-5E81AC?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-          <br>
-          <span>LinkedIn</span>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/milwardxsm">
-          <img src="https://img.shields.io/badge/-milwardxsm-4C566A?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-          <br>
-          <span>GitHub</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=milwardxsm&label=Visitas&color=5E81AC&style=flat-square" alt="Contador de visitas" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:B48EAD&height=100&section=footer" alt="Footer" />
-</div>
