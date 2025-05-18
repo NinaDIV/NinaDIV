@@ -118,28 +118,6 @@ Hola 👋 Soy **Milward**, desarrollador de software y estudiante de 5to semestr
 
 ---
 
-## 📌 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/milwardxsm/pulsera-iot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milwardxsm&repo=pulsera-iot&theme=nord" />
-  </a>
-  <a href="https://github.com/milwardxsm/webapp-spring-react">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milwardxsm&repo=webapp-spring-react&theme=nord" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/milwardxsm/tienda-wp-personalizada">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milwardxsm&repo=tienda-wp-personalizada&theme=nord" />
-  </a>
-  <a href="https://github.com/milwardxsm/django-api-rest">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milwardxsm&repo=django-api-rest&theme=nord" />
-  </a>
-</div>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
