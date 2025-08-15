@@ -1,4 +1,4 @@
- # <div align="center">🚀 Milward Nina | Desarrollador de Software</div>
+ # <div align="center">🚀 Milward Fernando Nina Mayta | Desarrollador de Software</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Entusiasta+de+IoT;Creador+de+Soluciones+Tecnol%C3%B3gicas;Dise%C3%B1ador+de+Experiencias+Digitales" alt="Presentación animada de Milward" />
