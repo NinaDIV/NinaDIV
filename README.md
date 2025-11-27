@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NinaDIV&color=5E81AC" alt="Contador de Visitas" />
+ 
 
   <h1>Hola 👋, Soy Milward Nina</h1>
   <h3>Desarrollador Full Stack | Entusiasta de IoT 🇵🇪</h3>
