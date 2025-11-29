@@ -9,7 +9,7 @@
   <br>
 
   <p>
-    <a href="https://linkedin.com/in/milwardnina" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+    <a href="www.linkedin.com/in/milward-nina" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:Milwardxsm@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
     &nbsp;&nbsp;&nbsp;
