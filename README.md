@@ -1,5 +1,5 @@
 <div align="center">
- 
+
   <h1>Hola 👋, Soy Milward Nina</h1>
   <h3>Desarrollador Full Stack | Móvil | Entusiasta de IoT 🇵🇪</h3>
 
@@ -28,10 +28,10 @@
 
 Hola 👋 Soy **Milward**, egresado de Diseño y Desarrollo de Software en **Tecsup Arequipa**. Me caracterizo por ser un desarrollador proactivo con enfoque en arquitecturas limpias y experiencia real en despliegue web.
 
-- 💼 **Experiencia:** Ex-pasante en **Fibertel Networks**,optimizando sitios corporativos|UX.
--  🚀 **Especialidad:** Desarrollo Móvil (SwiftUI/Flutter) y Arquitecturas Web Modernas (Astro/React).
--  🧠 **IoT:** Diseño de firmware y hardware (ESP32) para soluciones biométricas.
--  🎯 **Objetivo:** Asumir retos como desarrollador Junior aplicando metodologías ágiles (Scrum).
+- 💼 **Experiencia:** Ex-pasante en **Fibertel Networks**, optimizando sitios corporativos y su UX.
+- 🚀 **Especialidad:** Desarrollo Móvil (SwiftUI/Flutter) y Arquitecturas Web Modernas (Astro/React).
+- 🧠 **IoT:** Diseño de firmware y hardware (ESP32) para soluciones biométricas.
+- 🎯 **Objetivo:** Asumir retos como desarrollador Junior aplicando metodologías ágiles (Scrum).
 
 <br clear="right"/>
 
@@ -56,15 +56,10 @@ Hola 👋 Soy **Milward**, egresado de Diseño y Desarrollo de Software en **Tec
 </div>
 
 ---
- 
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/NinaDIV">
- 
- 
-  <br><br>
   <a href="https://github.com/NinaDIV">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaDIV&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
