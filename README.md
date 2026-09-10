@@ -57,10 +57,24 @@ Hola 👋 Soy **Milward**, egresado de Diseño y Desarrollo de Software en **Tec
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad en Tiempo Real
 
 <div align="center">
+  <!-- Estadísticas Generales (Servidor Rápido) -->
   <a href="https://github.com/NinaDIV">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaDIV&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=NinaDIV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  </a>
+  <!-- Racha de Actividad -->
+  <a href="https://github.com/NinaDIV">
+    <img height="165" src="https://streak-stats.demolab.com/?user=NinaDIV&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Lenguajes Principales (Servidor Rápido) -->
+  <a href="https://github.com/NinaDIV">
+    <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NinaDIV&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Lenguajes Principales" />
   </a>
 </div>
