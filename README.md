@@ -60,20 +60,29 @@ Hola 👋 Soy **Milward**, egresado de Diseño y Desarrollo de Software en **Tec
 ## 📊 Actividad en Tiempo Real
 
 <div align="center">
-  <!-- Estadísticas Generales (Servidor Rápido) -->
+
+  <!-- Badges con tus métricas reales de GitHub -->
+  <p>
+    <img src="https://img.shields.io/badge/Total_Commits-1824-5E81AC?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+    <img src="https://img.shields.io/badge/Contribuciones_(Último_Año)-1464-88C0D0?style=for-the-badge&logo=github&logoColor=white" alt="Contribuciones" />
+    <img src="https://img.shields.io/badge/Proyectos_Activos-57-B48EAD?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos" />
+  </p>
+
+  <br/>
+
+  <!-- Tarjetas dinámicas Tokyo Night -->
   <a href="https://github.com/NinaDIV">
-    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=NinaDIV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=NinaDIV&show_icons=true&theme=tokyonight&hide_border=true&hide=commits,prs,issues" alt="Estadísticas de GitHub" />
   </a>
-  <!-- Racha de Actividad -->
   <a href="https://github.com/NinaDIV">
     <img height="165" src="https://streak-stats.demolab.com/?user=NinaDIV&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
   </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Lenguajes Principales (Servidor Rápido) -->
   <a href="https://github.com/NinaDIV">
     <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NinaDIV&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Lenguajes Principales" />
   </a>
